@@ -5,9 +5,8 @@ ResumeItNow is a free, open-source resume builder that helps job seekers create 
 
 <div align="center">
 
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/maheshpaulj/ResumeItNow/issues)
 
-[Demo](https://resumeitnow.vercel.app) · [Report Bug](https://github.com/maheshpaulj/ResumeItNow/issues) · [Request Feature](https://github.com/maheshpaulj/ResumeItNow/issues)
+[Demo](https://resumeitnow.vercel.app) 
 
 ![ResumeItNow Preview](/public/assets/ss.png)
 
